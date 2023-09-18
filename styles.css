@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	position:center;
+}
+.container > div {
+ 
+  color: black;
+  width: 100px;
+  height:100px;
+  
+ 
+}
+.green{
+	 background-color: green;
+	line-height: 39px;
+	font-size: 30px;
+}
+.red{
+	background-color: red;
+	line-height: 39px;
+	font-size: 30px;
+	
+}
+.blue{
+	background-color: blue;
+	 line-height: 39px;
+	font-size: 30px;
+}
